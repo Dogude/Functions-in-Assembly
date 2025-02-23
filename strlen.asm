@@ -11,5 +11,5 @@ strl:
 			jmp p0
 			
 		p1:	
-			mov rax,rcx	
+			mov rax,rcx ;return value in rax	
 			ret	
